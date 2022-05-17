@@ -47,11 +47,11 @@ on:
         required: false
         default: 'false'
         type: boolean
-      release:
-        description: '上传到release'
-        required: false
-        default: 'true'
-        type: boolean
+#      release:
+#        description: '上传到release'
+#        required: false
+#        default: 'true'
+#        type: boolean
       artifact:
         description: '上传到artifact'
         required: false
