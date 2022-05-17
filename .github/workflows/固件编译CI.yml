@@ -55,7 +55,7 @@ on:
       artifact:
         description: '上传到artifact'
         required: false
-        default: 'false'
+        default: 'true'
         type: boolean
 jobs:
   build_openwrt:
