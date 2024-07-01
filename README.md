@@ -2,6 +2,7 @@
 自用小米路由4a的OpenWrt自动化编译
 # 测试完成
 # 再次完成
+# 第三次测试完成
 ## 特别鸣谢
 
 1. [hugcabbage/shared-lede](https://github.com/hugcabbage/shared-lede)
